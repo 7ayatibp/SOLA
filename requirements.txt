@@ -1,0 +1,8 @@
+# Python 3.11 (tested on 3.11.0, macOS arm64)
+numpy==2.4.1
+pandas==2.3.3
+scipy==1.17.0          # linprog with the HiGHS solver
+plotly==6.6.0
+requests               # one-off AEMO price download (Part 3)
+ipykernel              # to run the notebook in Jupyter or VS Code
+# optional: kaleido    # lets Appendix C save the report figures as PNG automatically
