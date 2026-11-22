@@ -1,0 +1,4 @@
+,saving ($/yr),(a) max capex ($),(b) max VPP fee vs own battery ($/month),(b) max VPP fee vs no battery ($/month)
+Optimised (perfect foresight),615.4310515912194,3681.1439344633795,34.7837671422733,72.71040699873299
+Rolling horizon (forecasts),307.6165864369226,1839.980170605294,-0.15437150489414364,37.77226835156555
+Self-consumption,455.11967827751636,2722.2562768233693,,
